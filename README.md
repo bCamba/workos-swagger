@@ -1,6 +1,6 @@
 ﻿# How to run this
 - Must have .NET 9 SDK installed.
-- Configure WorkOS ClientId and API Key in appsettings.json.
+- Configure WorkOS ClientId, WorkOS API Key and AuthKit Url in appsettings.json.
 - Open terminal go to solution folder and execute 'dotnet run' command.
 - Go to https://localhost:7150/swagger/index.html
 - Click authorize and insert a WorkOS Bearer JWT Token in the Bearer
